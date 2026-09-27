@@ -1,0 +1,32 @@
+{
+  "v": 1,
+  "slug": "athenium-academia",
+  "name": "Athenium Institute — Academia LMS Home",
+  "description": "A mobile-first learning-platform homepage for a demo academy called Athenium Institute. Warm paper-ivory surfaces with deep indigo-plum ink, a terracotta accent, and Fraunces serif display over Inter and Space Mono. The page opens with a live announcement ribbon, a serif hero with count-up stats, and a six-course catalog you can search and filter by category with instant empty-state feedback. The flagship course dossier opens an expandable curriculum (three modules, twelve lessons) with per-lesson tracking, module progress, and an SVG progress ring that persists across reloads. An instructor spotlight, three pricing tiers, and three testimonials build trust, then a validated enrollment form (name, email, course, track) bumps a persisted campus seat counter, rejects duplicates kindly, and offers an add-to-calendar .ics export with clipboard fallback. A live certificate preview renders the learner's name into a printable certificate the moment it is typed. Includes toast notifications, a mobile sticky enroll bar, back-to-top, reveal-on-scroll with reduced-motion support, and complete data-fws-slot content annotations for the business.education vocabulary.",
+  "category": "business.education",
+  "slot_schema_version": 1,
+  "author": {
+    "name": "Aryan",
+    "handle": "Aa11rn",
+    "url": "https://github.com/Aa11rn"
+  },
+  "tags": ["education", "lms", "academy", "course-catalog", "e-learning", "learning-management", "curriculum", "enrollment", "certificate", "progress-tracking", "pricing", "testimonials", "mobile-first"],
+  "features": [
+    "announcement ribbon with pause, resume, and dismiss",
+    "serif hero with live count-up stat strip",
+    "searchable, category-filterable course catalog with empty state",
+    "one-click add-to-plan enrollment on each course card",
+    "expanding curriculum dossier with per-lesson progress and persisted progress ring",
+    "mark-all-lessons-complete shortcut",
+    "instructor spotlight with quote",
+    "three pricing tiers with a highlighted plan",
+    "three testimonial cards",
+    "validated enrollment form with course and track choices, duplicates, and reset",
+    "persisted campus seat counter with social-proof avatar stack",
+    "add-to-calendar .ics export with clipboard fallback",
+    "live certificate preview with print action",
+    "toast notifications, mobile enroll bar, and back-to-top",
+    "fully customizable content via data-fws-slot attributes"
+  ],
+  "license": "MIT"
+}
